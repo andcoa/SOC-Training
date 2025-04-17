@@ -25,4 +25,4 @@ To build foundational blue team skills through hands-on labs focused on threat d
 - MISP (Malware Information Sharing Platform) – Used for sharing threat intelligence indicators (IOCs), TTPs, and other cyber threat data.
 
 ## Certificate:
-(![image](https://github.com/user-attachments/assets/7c29418a-a8d6-46df-9ccf-0ef2b592876d)
+![image](https://github.com/user-attachments/assets/7c29418a-a8d6-46df-9ccf-0ef2b592876d)
