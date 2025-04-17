@@ -3,7 +3,7 @@
 ### https://tryhackme.com/path/outline/soclevel1
 
 ## Objective: 
-To build foundational blue team skills through hands-on labs focused on threat detection, log analysis, and incident response. This training reflects the practical tasks completed during the certification and demonstrates core SOC responsibilities in simulated environments.
+To build foundational blue team skills through hands-on labs focused on threat detection, log analysis, and incident response. This training reflects the practical tasks completed day-to-day by SOC analysts and demonstrates core SOC responsibilities in simulated environments.
 
 ## Skills Learned:
 
