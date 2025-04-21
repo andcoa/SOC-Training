@@ -7,11 +7,11 @@ To build foundational blue team skills through hands-on labs focused on threat d
 
 ## Skills Learned:
 
-- 🔍 Log Analysis: Analyzed system and network logs to identify indicators of compromise (IOCs) and trace attacker behavior.
-- 🧠 Threat Intelligence: Researched threats using open-source intelligence (OSINT) and correlated data for context and response.
-- ⚠️ Detection Engineering: Worked with Sigma rules to write and customize detection logic for SIEM systems.
-- 🚨 Incident Response: Followed structured triage processes to assess and respond to real-world attack scenarios.
-- 📚 Report Writing: Documented findings clearly and accurately to simulate real SOC analyst deliverables.
+- Log Analysis: Analyzed system and network logs to identify indicators of compromise (IOCs) and trace attacker behavior.
+- Threat Intelligence: Researched threats using open-source intelligence (OSINT) and correlated data for context and response.
+- Detection Engineering: Worked with Sigma rules to write and customize detection logic for SIEM systems.
+- Incident Response: Followed structured triage processes to assess and respond to real-world attack scenarios.
+- Report Writing: Documented findings clearly and accurately to simulate real SOC analyst deliverables.
 
 ## 🛠️ Tools Used
 
