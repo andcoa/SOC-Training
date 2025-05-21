@@ -13,7 +13,7 @@ To build foundational blue team skills through hands-on labs focused on threat d
 - Incident Response: Followed structured triage processes to assess and respond to real-world attack scenarios.
 - Report Writing: Documented findings clearly and accurately to simulate real SOC analyst deliverables.
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Splunk – For log ingestion, searching, and dashboarding.
 - Wireshark – To inspect packet captures and analyze network-level attacks.
